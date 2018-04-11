@@ -8,7 +8,7 @@ export default class Article extends Component {
 
 		return (
 			<article>
-				<h2><a href={href} name={hash}>#</a> {this.props.question}</h2>
+				<h2>{this.props.question}</h2>
 				<p>{this.props.answer}</p>
 			</article>
 		);

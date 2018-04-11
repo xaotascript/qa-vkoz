@@ -2,7 +2,7 @@
   "name": "qa-forweb",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://xaotascript.github.io/qa-forweb",
+  "homepage": "https://xaotascript.github.io/qa-vkoz",
   "dependencies": {
     "js-md5": "^0.7.3",
     "react": "^16.3.1",

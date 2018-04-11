@@ -1,0 +1,9 @@
+.Filter {
+	padding: 0 0 1rem;
+}
+
+.FilterInput {
+	width: 100%;
+	padding: 0.4rem;
+    box-sizing: border-box;
+}
